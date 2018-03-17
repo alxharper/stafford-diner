@@ -1,0 +1,63 @@
+.menuSelector {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	max-width: 900px;
+	margin: 0 auto;
+	justify-content: center;
+	font-size: 18px;
+}
+
+.menuOption:first-child {
+	margin-left: 10px;
+}
+
+.menuOption:last-child {
+	margin-right: 10px;
+}
+
+.menuOption {
+	border: 2px solid #000;
+	border-radius: 7px;
+	flex-grow: 1;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	background: #f7f7f7;
+}
+
+.menuOption:hover {
+	box-shadow: 2px 2px 2px #a5a5a5;
+}
+
+.menuHours {
+	font-size: 16px;
+}
+
+#earlyBird {
+	flex-grow: 1;
+}
+
+#breakfast {
+	flex-grow: 4;
+}
+
+#linner {
+	flex-grow: 4;
+}
+
+#lateNight {
+	flex-grow: 1;
+	background-color: #2b2b2b;
+	color: #fff;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 2px solid #5a5a5a;
+	margin: 5px 10px;
+	padding: 0;
+	/*box-shadow: 2px 0.5px 1px #a5a5a5;*/
+}

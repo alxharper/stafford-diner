@@ -8,6 +8,7 @@ header {
 	font-weight: bold;
 	text-align: center;
 	margin: 0 auto;
+	max-height: 300px;
 }
 
 .staffordDiner {
