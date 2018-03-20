@@ -7,6 +7,7 @@
 	flex-grow: 1;
 	box-shadow: 2px 2px 2px #a5a5a5;
 	background: #f7f7f7;
+	min-width: 350px;
 }
 
 .itemName {
@@ -20,4 +21,8 @@
 .description {
 	font-weight: 500;
 	font-size: 14px;
+}
+
+.price {
+	padding-left: 10px;
 }

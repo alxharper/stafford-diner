@@ -7,7 +7,8 @@ class MenuItem extends Component {
 		return (
 			<div className="menuItem">
 				<div className="itemName">
-					{this.props.name} <span className="price">{this.props.price}</span>
+					{this.props.name}
+					<span className="price">{this.props.price}</span>
 				</div>
 				<div className="description">{this.props.description}</div>
 			</div>

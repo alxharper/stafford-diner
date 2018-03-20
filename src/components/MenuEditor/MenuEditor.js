@@ -10,7 +10,7 @@ class MenuEditor extends Component {
 		super();
 		this.handleNameChange = this.handleNameChange.bind(this);
 		this.handlePriceChange = this.handlePriceChange.bind(this);
-		this.handleDescChange = this.handleDescChange.bind(this);
+		this.handleDescriptionChange = this.handleDescriptionChange.bind(this);
 
 		this.handleSubmit = this.handleSubmit.bind(this);
 	}
@@ -29,13 +29,27 @@ class MenuEditor extends Component {
 		},
 	};
 
-	handleNameChange(event) {}
+	handleNameChange(event) {
+		const placeholder = { ...this.state.placeholder };
+		placeholder.name = event.target.value;
+		this.setState({ placeholder });
+	}
 
-	handlePriceChange(event) {}
+	handlePriceChange(event) {
+		const placeholder = { ...this.state.placeholder };
+		placeholder.price = event.target.value;
+		this.setState({ placeholder });
+	}
 
-	handleDescChange(event) {}
+	handleDescriptionChange(event) {
+		const placeholder = { ...this.state.placeholder };
+		placeholder.description = event.target.value;
+		this.setState({ placeholder });
+	}
 
-	handleSubmit(event) {}
+	handleSubmit(event) {
+		const menus = { ...this.state.menus };
+	}
 
 	render() {
 		return (
@@ -46,6 +60,10 @@ class MenuEditor extends Component {
 							name={this.state.placeholder.name}
 							price={this.state.placeholder.price}
 							description={this.state.placeholder.description}
+							onNameChange={this.handleNameChange}
+							onPriceChange={this.handlePriceChange}
+							onDescriptionChange={this.handleDescriptionChange}
+							menus={this.state.menus}
 						/>
 					</div>
 					<div className="previewItem">
