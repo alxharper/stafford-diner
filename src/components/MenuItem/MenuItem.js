@@ -5,7 +5,7 @@ import "./MenuItem.css";
 class MenuItem extends Component {
 	render() {
 		return (
-			<div className="menuItem">
+			<div className={"menuItem " + this.props.style}>
 				<div className="itemName">
 					chicken wings <span className="price">7.25</span>
 				</div>

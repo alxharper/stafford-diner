@@ -16,7 +16,6 @@ class App extends Component {
 	};
 
 	componentDidMount() {
-		console.log("app mouted");
 		this.ref = Base.syncState("stafford-diner/menus", {
 			context: this,
 			state: "menus",
@@ -31,6 +30,8 @@ class App extends Component {
 				<hr />
 				<Menu>
 					<MenuGroup>
+						<MenuItem />
+						<MenuItem />
 						<MenuItem />
 						<MenuItem />
 						<MenuItem />
