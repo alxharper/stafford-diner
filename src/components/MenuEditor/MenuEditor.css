@@ -1,0 +1,8 @@
+.preview {
+	display: flex;
+	flex-direction: row;
+}
+
+.previewItem {
+	max-width: 400px;
+}

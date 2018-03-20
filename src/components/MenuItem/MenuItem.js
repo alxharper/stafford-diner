@@ -5,13 +5,11 @@ import "./MenuItem.css";
 class MenuItem extends Component {
 	render() {
 		return (
-			<div className={"menuItem " + this.props.style}>
+			<div className="menuItem">
 				<div className="itemName">
-					chicken wings <span className="price">7.25</span>
+					{this.props.name} <span className="price">{this.props.price}</span>
 				</div>
-				<div className="description">
-					Hot or mild Buffalo sauce or barbecue sauce
-				</div>
+				<div className="description">{this.props.description}</div>
 			</div>
 		);
 	}

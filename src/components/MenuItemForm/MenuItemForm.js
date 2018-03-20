@@ -4,27 +4,25 @@ import MenuItem from "../MenuItem/MenuItem";
 import "./MenuItemForm.css";
 
 class MenuItemForm extends Component {
-	state = {
-		previewTitle: "",
-		previewPrice: "",
-		previewDesc: "",
-	};
-
 	render() {
 		return (
 			<div className="menuItemEditor">
 				<form className="menuItemForm">
 					<div>
 						<span className="menuItemFormLabel">Name:</span>
-						<input type="text" name="name" />
+						<input type="text" name="name" placeholder={this.props.name} />
 					</div>
 					<div>
 						<span className="menuItemFormLabel">Price:</span>
-						<input type="text" name="price" />
+						<input type="text" name="price" placeholder={this.props.price} />
 					</div>
 					<div>
 						<span className="menuItemFormLabel">Description:</span>
-						<input type="text" name="description" />
+						<input
+							type="text"
+							name="description"
+							placeholder={this.props.description}
+						/>
 					</div>
 					<input type="submit" value="create" />
 				</form>
