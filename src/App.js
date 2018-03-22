@@ -8,7 +8,7 @@ import MenuGroup from "./components/MenuGroup/MenuGroup";
 import MenuItem from "./components/MenuItem/MenuItem";
 import GoogleMap from "./components/GoogleMap/GoogleMap";
 import MenuSelector from "./components/MenuSelector/MenuSelector";
-import Base from "./base";
+import base from "./base";
 
 class App extends Component {
 	state = {
@@ -16,7 +16,7 @@ class App extends Component {
 	};
 
 	componentDidMount() {
-		this.ref = Base.syncState("stafford-diner/menus", {
+		this.ref = base.syncState("menus", {
 			context: this,
 			state: "menus",
 		});
@@ -28,30 +28,7 @@ class App extends Component {
 				<Header />
 				<MenuSelector />
 				<hr />
-				<Menu>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-				</Menu>
+				<Menu menus={this.state.menus} />
 			</div>
 		);
 	}
