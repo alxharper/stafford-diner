@@ -1,0 +1,14 @@
+- Fill out menu.json
+- lay out menu using menu.json
+- save menu to database instead of local file
+- filter menu items by meal availability
+- set up authentication
+- set up map
+- set up phone number
+- set up daily specials 
+- set up daily specials editor
+- serve the site on alxharper.com
+- do late night style
+- add animations where it makes sense
+- Add announcements
+- Add announcements tool
