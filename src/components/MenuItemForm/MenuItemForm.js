@@ -44,8 +44,6 @@ class MenuItemForm extends Component {
 }
 
 const MenuSelector = ({ menus }) => {
-	console.log({ menus });
-
 	const options = Object.keys(menus).map(function(key) {
 		return (
 			<option key={menus[key]} value={menus[key]}>
@@ -54,7 +52,7 @@ const MenuSelector = ({ menus }) => {
 		);
 	});
 
-	return <select>{options}</select>;
+	return <select className="menuFormSelector">{options}</select>;
 };
 
 export default MenuItemForm;
