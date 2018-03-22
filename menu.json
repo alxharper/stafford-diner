@@ -1,0 +1,131 @@
+{
+	"thingsToShare": {
+		"columns": 1,
+		"groupName": "Things to Share",
+		"items": [
+			{
+				"name": "Humongous Nachos",
+				"price": 825,
+				"description":
+					"Crisp tortilla chips covered with melted cheeses, chili, jalapenos, guacamole, salsa and sour cream"
+			},
+			{
+				"name": "Super Sampler",
+				"price": 1045,
+				"description":
+					"Chicken fingers, fried mozzarella sticks, Buffalo chicken wings, cheddar poppers & loaded potato skins"
+			},
+			{
+				"name": "Trio Sampler",
+				"price": 925,
+				"description":
+					"Two stuffed mushrooms, two stuffed shrimp, and two stuffed clams"
+			}
+		]
+	},
+	"appetizers": {
+		"columns": 2,
+		"groupName": "appetizers",
+		"items": [
+			{
+				"name": "Chicken Wings",
+				"price": 725,
+				"description": "Hot or mild Buffalo sauce or barbecue sauce"
+			},
+			{
+				"name": "Chicken Tenders",
+				"price": 595,
+				"description":
+					"Crispy golden brown fried chicken strips with honey mustard"
+			},
+			{
+				"name": "mozzarella sticks",
+				"price": 625,
+				"description": "Crip and golden brown with marinara sauce"
+			},
+			{
+				"name": "fried calamari",
+				"price": 595,
+				"description": "Served with marinara sauce"
+			},
+			{
+				"name": "clams casino",
+				"price": 525,
+				"description": "With bacon and bread crumbs"
+			},
+			{
+				"name": "Loaded Potato Skins",
+				"price": 595,
+				"description":
+					"Cheddar cheese, crispy bacon with sour cream on the side"
+			},
+			{
+				"name": "Loaded Baked Potato",
+				"price": 495,
+				"description":
+					"Crisp bacon and melted cheddar with sour cream on the side"
+			},
+			{
+				"name": "Asian Vegetarian Spring Rolls",
+				"price": 795,
+				"description":
+					"All of the Asian flavors in a crispy spring roll, served with teriyaki dipping sauce"
+			},
+			{
+				"name": "Philly cheesesteak spring rolls",
+				"price": 795,
+				"description":
+					"All of the flavors of Philly cheese steak in a crip spring roll served with cheddar cheese sauce"
+			},
+			{
+				"name": "Creamy spinach & artichoke dip",
+				"price": 795,
+				"description": "served with tortilla chips"
+			},
+			{
+				"name": "Buffalo Fried Shrimp",
+				"price": 795,
+				"description":
+					"Shrimp that is deep fried and tossed in a buffalo sauce, served with bleu cheese dressing and celery sticks"
+			},
+			{
+				"name": "Fried Crab Cakes",
+				"price": 925,
+				"description":
+					"Two large crab cakes, served with tartar or cocktail sauce"
+			},
+			{
+				"name": "Mussels Marinara",
+				"price": 625,
+				"description":
+					"Sauteed with fresh garlic, chopped tomato, white wine, basil and red pepper flakes"
+			},
+			{
+				"name": "Naked chicken tenders",
+				"price": 595,
+				"description":
+					"Grilled chicken tenders tossed in a choice of classic buffalo or barbecue sauce"
+			},
+			{
+				"name": "crispy Onion Rings",
+				"price": 395,
+				"description": "Served with ranch dressing"
+			},
+			{
+				"name": "Garlic Shrimp",
+				"price": 795,
+				"description": "Spanish style, served on toasted French bread"
+			},
+			{
+				"name": "Cheddar Poppers",
+				"price": 625,
+				"description": "Served with raspbetty viniagrette on the side"
+			},
+			{
+				"name": "Jumbo Gulf Shrimp Cocktail",
+				"price": 895,
+				"description": "Served with cocktail sauce"
+			}
+		]
+	}
+}
