@@ -8,14 +8,19 @@ import MenuGroup from "./components/MenuGroup/MenuGroup";
 import MenuItem from "./components/MenuItem/MenuItem";
 import GoogleMap from "./components/GoogleMap/GoogleMap";
 import MenuSelector from "./components/MenuSelector/MenuSelector";
-import Base from "./base";
-
-import menuData from "./menu.json";
+import base from "./base";
 
 class App extends Component {
 	state = {
-		menus: menuData,
+		menus: {},
 	};
+
+	componentDidMount() {
+		this.ref = base.syncState("menus", {
+			context: this,
+			state: "menus",
+		});
+	}
 
 	render() {
 		return (

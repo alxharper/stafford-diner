@@ -1,0 +1,21 @@
+/* structure */
+body {
+  background: #eee;
+  text-align: center;
+}
+svg {
+  padding: 20px;
+}
+
+/* animation */
+@keyframes smokeFade {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+#smoke {
+  animation: smokeFade 1s ease infinite;
+}
