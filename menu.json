@@ -126,6 +126,196 @@
 				"price": 895,
 				"description": "Served with cocktail sauce"
 			}
+		],
+		"subGroups": [
+			{
+				"groupName": "Fries",
+				"columns": 2,
+				"items": [
+					{
+						"name": "french fries",
+						"price": 350,
+						"description": ""
+					},
+					{
+						"name": "sweet potato fries",
+						"price": 425,
+						"description": ""
+					},
+					{
+						"name": "Disco Fries",
+						"price": 450,
+						"description":
+							"Your choice of American, cheddar, or mozzarella cheese topped with brown gravy"
+					},
+					{
+						"name": "Pizza Fries",
+						"price": 450,
+						"description": "Mozzarella cheese topped with tomato sauce"
+					},
+					{
+						"name": "Chili Fries",
+						"price": 525,
+						"description":
+							"Homemade chili with melted cheese, diced onions, jalapenos, and a side of sour cream"
+					},
+					{
+						"name": "Loaded Fries",
+						"price": 525,
+						"description": "Crispy Bacon, melted cheese and sour cream"
+					}
+				]
+			},
+			{
+				"groupName": "Chilli & Soup",
+				"columns": 2,
+				"items": [
+					{
+						"name": "Soup & Tossed Salad",
+						"price": 450,
+						"description": ""
+					},
+					{
+						"name": "Soup and Greek Salad",
+						"price": 625,
+						"description": ""
+					},
+					{
+						"name": "1/2 Deli Sandwich & Soup or Tossed Salad",
+						"price": 695,
+						"description": ""
+					},
+					{
+						"name": "1/2 Deli Sandwich & French Onion Soup or Greak Salad",
+						"price": 795,
+						"description": ""
+					}
+				]
+			},
+			{
+				"groupName": "Sides",
+				"columns": 4,
+				"items": [
+					{
+						"name": "Baked Potato",
+						"price": 295,
+						"description": ""
+					},
+					{
+						"name": "Mashed potato",
+						"price": 275,
+						"description": ""
+					},
+					{
+						"name": "Rice Pilaf",
+						"price": 275,
+						"description": ""
+					},
+					{
+						"name": "Brown Rice",
+						"price": 295,
+						"description": ""
+					},
+					{
+						"name": "Creamy Cole Slaw",
+						"price": 225,
+						"description": "Made Fresh Daily"
+					},
+					{
+						"name": "Sauteed Spinach",
+						"price": 395,
+						"description": ""
+					},
+					{
+						"name": "Black Beans",
+						"price": 295,
+						"description": ""
+					},
+					{
+						"name": "Vegetable of the Day",
+						"price": 295,
+						"description": ""
+					},
+					{
+						"name": "Home Fries",
+						"price": 275,
+						"description": ""
+					},
+					{
+						"name": "Fruit Cup",
+						"price": 395,
+						"description": ""
+					},
+					{
+						"name": "Cottage Cheese",
+						"price": 225,
+						"description": ""
+					},
+					{
+						"name": "Feta Cheese",
+						"price": 350,
+						"description": ""
+					},
+					{
+						"name": "Potato Salad",
+						"price": 225,
+						"description": ""
+					},
+					{
+						"name": "Stuffed Grape Leaves (4)",
+						"price": 295,
+						"description": ""
+					}
+				]
+			}
+		]
+	},
+	"appetizerSalads": {
+		"groupName": "Appetizer Salads",
+		"columns": 3,
+		"items": [
+			{
+				"name": "Tossed Green Salad",
+				"price": 275,
+				"description":
+					"Chopped lettuce, tomato, red onion, red shredded cabbage, cucumber shredded carrots"
+			},
+			{
+				"name": "Caesar Salad",
+				"price": 295,
+				"description":
+					"Romaine lettuce hearts tossed in a creamy Caesar dressing with croutons & sprinkled with Parmesan cheese"
+			},
+			{
+				"name": "Greek Salad",
+				"price": 445,
+				"description":
+					"Iceberg lettuce, tomato, feta cheese, cucumber, red onions, black olives in our house Greek dressing"
+			}
+		]
+	},
+	"Large Salads": {
+		"groupName": "Appetizer Salads",
+		"columns": 3,
+		"items": [
+			{
+				"name": "Tossed Green Salad",
+				"price": 275,
+				"description":
+					"Chopped lettuce, tomato, red onion, red shredded cabbage, cucumber shredded carrots"
+			},
+			{
+				"name": "Caesar Salad",
+				"price": 295,
+				"description":
+					"Romaine lettuce hearts tossed in a creamy Caesar dressing with croutons & sprinkled with Parmesan cheese"
+			},
+			{
+				"name": "Greek Salad",
+				"price": 445,
+				"description":
+					"Iceberg lettuce, tomato, feta cheese, cucumber, red onions, black olives in our house Greek dressing"
+			}
 		]
 	}
 }
