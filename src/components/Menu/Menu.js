@@ -1,11 +1,15 @@
 import React, { Component } from "react";
-import MenuGroup from "../MenuGroup/MenuGroup";
+import MenuSection from "../MenuSection/MenuSection";
 
 import "./Menu.css";
 
 class Menu extends Component {
 	render() {
-		return <div className="menu">{this.props.children}</div>;
+		const sections = this.props.menus.sections.map(sectionData => {
+			return <MenuSection section={sectionData} />;
+		});
+
+		return <div className="menu">{sections}</div>;
 	}
 }
 

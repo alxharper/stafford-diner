@@ -10,17 +10,12 @@ import GoogleMap from "./components/GoogleMap/GoogleMap";
 import MenuSelector from "./components/MenuSelector/MenuSelector";
 import Base from "./base";
 
+import menuData from "./menu.json";
+
 class App extends Component {
 	state = {
-		menus: {},
+		menus: menuData,
 	};
-
-	componentDidMount() {
-		this.ref = Base.syncState("stafford-diner/menus", {
-			context: this,
-			state: "menus",
-		});
-	}
 
 	render() {
 		return (
@@ -28,30 +23,7 @@ class App extends Component {
 				<Header />
 				<MenuSelector />
 				<hr />
-				<Menu>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-					<MenuGroup>
-						<MenuItem />
-						<MenuItem />
-						<MenuItem />
-					</MenuGroup>
-				</Menu>
+				<Menu menus={this.state.menus} />
 			</div>
 		);
 	}
