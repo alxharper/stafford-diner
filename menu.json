@@ -1458,6 +1458,237 @@
 							"Topped with jalapeno peppers, onions, tomatoes and Moterey jack cheese, served with bleu cheese dressing"
 					}
 				]
+			},
+			{
+				"sectionName": "Wraps",
+				"items": [
+					{
+						"name": "Santa Fe Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Grilled chicken, turkey bacon, beans and melted cheddar cheese"
+					},
+					{
+						"name": "Chicken Caesar Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "With romaine lettuce and Caesar dressing"
+					},
+					{
+						"name": "Sergio Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Grilled chicken with fresh spinach and mozzarella, served with balsamic dressing"
+					},
+					{
+						"name": "Tuna, Chicken, or Egg Salad Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "With shredded lettuce and tomatoes"
+					},
+					{
+						"name": "Grilled Chicken and Vegetable Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Grilled Chicken and Eggplant Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Thinly slied and topped with shredded lettuce, tomatoes and onions"
+					},
+					{
+						"name": "Turkey Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "With shredded lettuce and tomatoes"
+					},
+					{
+						"name": "Gyro Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"With shredded lettuce, tomatoes, onions, and tzatziki sauce"
+					},
+					{
+						"name": "Santos Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Thinly Sliced london broil topped with shredded lettuce, tomatoes, and onions"
+					},
+					{
+						"name": "Vegetable Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "Grilled and Seasoned"
+					},
+					{
+						"name": "Eggplant Parmigiana Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Grilled eggplant topped with melted mozzarella cheese and marinara sauce"
+					},
+					{
+						"name": "Cheese Steak Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "with peppers and onions"
+					},
+					{
+						"name": "Protein Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "Grilled chicken & egg whites on a wheat wrap"
+					},
+					{
+						"name": "Pizza Burger Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "Grilled burger with tomato sauce, mozzarella cheese"
+					},
+					{
+						"name": "Crispy chicken fingers, lettuce, tomato & Buffalo sauce",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "With shredded lettuce and tomatoes"
+					}
+				]
+			},
+			{
+				"sectionName": "Our Own Baked Focaccia Bread",
+				"items": [
+					{
+						"name": "Tommy's Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"Grilled chicken, ham & melted mozzarella on focaccia bread"
+					},
+					{
+						"name": "Kristen's Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"Grilled chicken with sauteed spinach, in a basil olive oil and gralic dressing topped with mozzarella cheese"
+					},
+					{
+						"name": "Turkey and Bacon",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"With lettuce and melted Monterey jack cheese in grilled focaccia bread, served with dijon mustard on the side"
+					},
+					{
+						"name": "Roasted Eggplant",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"With red roasted peppers, provolone cheese and lettuce in basil"
+					},
+					{
+						"name": "Grilled chicken breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"With roasted red peppers, provolone cheese and lettuce in basil olive oil, garlic, and seasonings"
+					},
+					{
+						"name": "Grilled Portabello Mushrooms",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description": "Topped with your choice of melted cheese"
+					}
+				]
 			}
 		]
 	}
