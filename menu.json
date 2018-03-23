@@ -847,6 +847,332 @@
 					}
 				],
 				"sectionName": "Low Carb Solutions"
+			},
+			{
+				"sectionName": "Premium Sandwiches",
+				"items": [
+					{
+						"name": "Chicken Parmigiana Hero",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"Crispy chicken breast coated in bread crumbs, tomato sauce and melted provolone cheese on a toasted French roll"
+					},
+					{
+						"name": "Grilled Chicken breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 825
+							}
+						],
+						"description": "With lettuce and tomato on a toasted roll"
+					},
+					{
+						"name": "Honey Dijon Chicken Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"Grilled chicken breast topped with melted Swiss, lettuce and tomato on a toasted roll"
+					},
+					{
+						"name": "Grilled Chicken club sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"Grilled chicken, BLT & mayo on three slices of toasted bread"
+					},
+					{
+						"name": "Turkey Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"Turkey, bacon, lettuce and tomato on three slices of toasted bread"
+					},
+					{
+						"name": "Roast Beef Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"Roast Beef, bacon, lettuce and tomato, on three slices of toasted bread"
+					},
+					{
+						"name": "Ham and Turkey Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description": "Tuna or Chicken Salad Club"
+					},
+					{
+						"name": "Tuna or Chicken Salad Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"With bacon, lettuce and tomato on three slices of toasted bread"
+					},
+					{
+						"name": "Egg Salad Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"With bacon, lettuce and tomato on three slices of toasted bread"
+					},
+					{
+						"name": "Hamburger Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"1/2 lb hamburger with bacon, lettuce, tomato & choice of cheese on three slices of toasted bread"
+					},
+					{
+						"name": "French Dip",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description":
+							"Roast beef and Swiss cheese on a kaiser roll, served with au jus"
+					},
+					{
+						"name": "Monte Cristo",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description":
+							"Ham, turkey and melted Swisss on our homemade French toast"
+					},
+					{
+						"name": "Reuben",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description":
+							"Choice of hot corned beef or pastrami with sauerkraut and Russian dressing, topped with melted Swiss cheese on rye"
+					},
+					{
+						"name": "Mermaid Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description":
+							"A grilled chicken breast with roasted red peppers and melted American cheese on a hard roll"
+					},
+					{
+						"name": "Chicken and Eggplant",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description":
+							"Grilled chicken topped with eggplant and melted Swiss cheese on a torpedo roll"
+					},
+					{
+						"name": "Our Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"description":
+							"Grilled slices of chicken, onions, red peppers, zucchini, with melted American cheese, served on a torpedo roll"
+					},
+					{
+						"name": "Dee's special sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"description":
+							"Grilled chicken, bacon, roasted peppers, melted Swiss, lettuce, tomato and onion on a torpedo roll with our special dressing"
+					},
+					{
+						"name": "Meatloaf Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description": "On a hard roll with brown gravy"
+					},
+					{
+						"name": "Italian Meatball",
+						"prices": [
+							{
+								"label": "",
+								"price": 725
+							}
+						],
+						"description":
+							"Served on a garlic hero rol with melted mozzarella and tomato sauce"
+					},
+					{
+						"name": "Rib-eye steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 1025
+							}
+						],
+						"description": "Served on a garlic hero roll with fried onions"
+					},
+					{
+						"name": "Tuna Melt",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"description":
+							"Tuna salad topped with tomato and melted American cheese on a rye bread"
+					},
+					{
+						"name": "Carnegie Deli Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"description":
+							"Choice of hot corned beef, pastrami, or roast beef on rye bread or Kaiser roll"
+					},
+					{
+						"name": "Grilled Cheese",
+						"prices": [
+							{
+								"label": "",
+								"price": 575
+							},
+							{
+								"label": "with Bacon or Ham",
+								"price": 725
+							},
+							{
+								"label": "with Tomato",
+								"price": 625
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Crab Cake Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Fried crab cakes served with tartar sauce on a hard roll"
+					},
+					{
+						"name": "B.L.T.",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"description":
+							"Bacon, lettuce and tomato on choice of toasted bread"
+					},
+					{
+						"name": "Fried Flounder Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"description": "Served with lettuce and tomato on a Kaiser roll"
+					},
+					{
+						"name": "Philly Cheese Steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 845
+							}
+						],
+						"description":
+							"Paper thin sirloin steak with melted cheese, peppers and onions on a toasted French roll"
+					},
+					{
+						"name": "Chicken Cheese Steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 845
+							}
+						],
+						"description":
+							"with melted cheese, peppers and onions on a toasted French roll"
+					},
+					{
+						"name": "Eggplant Parmigiana",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"description":
+							"Grilled eggplant with melted mozzarella cheese on a torpedo roll"
+					}
+				]
 			}
 		]
 	}
