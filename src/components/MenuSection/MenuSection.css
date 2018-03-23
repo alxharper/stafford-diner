@@ -8,3 +8,12 @@
 	font-size: 35px;
 	margin-top: 10px;
 }
+
+.openClose {
+	font-size: 25px;
+	font-weight: bold;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}

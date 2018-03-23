@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import MenuItemForm from "../MenuItemForm/MenuItemForm";
-import MenuGroup from "../MenuGroup/MenuGroup";
+import MenuSection from "../MenuSection/MenuSection";
 import MenuItem from "../MenuItem/MenuItem";
 
 import "./MenuEditor.css";
@@ -75,9 +75,9 @@ class MenuEditor extends Component {
 					</div>
 				</div>
 				<hr />
-				<MenuGroup groupName="Appitizers">
+				<MenuSection SectionName="Appitizers">
 					<MenuItem />
-				</MenuGroup>
+				</MenuSection>
 			</div>
 		);
 	}

@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from "react";
+import { formatPrice } from "../../util.js";
 
 import "./MenuItem.css";
 
@@ -7,7 +8,8 @@ class MenuItem extends Component {
 		const prices = this.props.item.prices.map(option => {
 			return (
 				<React.Fragment>
-					<span>{option.label}</span> <span>{option.price}</span>
+					<span className="itemOptionLabel">{option.label}</span>
+					<span className="itemOptionPrice">{formatPrice(option.price)}</span>
 				</React.Fragment>
 			);
 		});

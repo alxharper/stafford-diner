@@ -11,7 +11,10 @@ class MenuSection extends Component {
 
 		return (
 			<div className="menuSection">
-				<div className="menuSectionTitle">{this.props.section.sectionName}</div>
+				<div className="menuSectionTitle">
+					{this.props.section.sectionName}
+					<span className="openClose">&or;</span>
+				</div>
 				{menuItems}
 			</div>
 		);

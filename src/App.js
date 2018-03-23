@@ -4,7 +4,7 @@ import "./App.css";
 
 import Header from "./components/Header/Header";
 import Menu from "./components/Menu/Menu";
-import MenuGroup from "./components/MenuGroup/MenuGroup";
+import MenuSection from "./components/MenuSection/MenuSection";
 import MenuItem from "./components/MenuItem/MenuItem";
 import GoogleMap from "./components/GoogleMap/GoogleMap";
 import MenuSelector from "./components/MenuSelector/MenuSelector";
