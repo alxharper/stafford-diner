@@ -12,9 +12,9 @@ class LoadingAnimation extends Component {
 				<g
 					id="Page-1"
 					stroke="none"
-					stroke-width="1"
+					strokeWidth="1"
 					fill="none"
-					fill-rule="evenodd"
+					fillRule="evenodd"
 				>
 					<g id="CoffeeCup" fill="#B6B5B1">
 						<path

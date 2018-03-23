@@ -1,0 +1,1826 @@
+{
+	"menus": {
+		"sections": [
+			{
+				"columns": 1,
+				"items": [
+					{
+						"description":
+							"Crisp tortilla chips covered with melted cheeses, chili, jalapenos, guacamole, salsa and sour cream",
+						"name": "Humongous Nachos",
+						"prices": [
+							{
+								"label": "",
+								"price": 825
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"Chicken fingers, fried mozzarella sticks, Buffalo chicken wings, cheddar poppers & loaded potato skins",
+						"name": "Super Sampler",
+						"prices": [
+							{
+								"label": "",
+								"price": 1045
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description":
+							"Two stuffed mushrooms, two stuffed shrimp, and two stuffed clams",
+						"name": "Trio Sampler",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472332"
+					}
+				],
+				"sectionName": "Things to Share",
+				"key": "1521830472330"
+			},
+			{
+				"columns": 2,
+				"items": [
+					{
+						"description": "Hot or mild Buffalo sauce or barbecue sauce",
+						"name": "Chicken Wings",
+						"prices": [
+							{
+								"label": "",
+								"price": 725
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"Crispy golden brown fried chicken strips with honey mustard",
+						"name": "Chicken Tenders",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description": "Crip and golden brown with marinara sauce",
+						"name": "mozzarella sticks",
+						"prices": [
+							{
+								"label": "",
+								"price": 625
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description": "Served with marinara sauce",
+						"name": "fried calamari",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description": "With bacon and bread crumbs",
+						"name": "clams casino",
+						"prices": [
+							{
+								"label": "",
+								"price": 525
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description":
+							"Cheddar cheese, crispy bacon with sour cream on the side",
+						"name": "Loaded Potato Skins",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"key": "1521830472335"
+					},
+					{
+						"description":
+							"Crisp bacon and melted cheddar with sour cream on the side",
+						"name": "Loaded Baked Potato",
+						"prices": [
+							{
+								"label": "",
+								"price": 495
+							}
+						],
+						"key": "1521830472336"
+					},
+					{
+						"description":
+							"All of the Asian flavors in a crispy spring roll, served with teriyaki dipping sauce",
+						"name": "Asian Vegetarian Spring Rolls",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472337"
+					},
+					{
+						"description":
+							"All of the flavors of Philly cheese steak in a crip spring roll served with cheddar cheese sauce",
+						"name": "Philly cheesesteak spring rolls",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472338"
+					},
+					{
+						"description": "served with tortilla chips",
+						"name": "Creamy spinach & artichoke dip",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472339"
+					},
+					{
+						"description":
+							"Shrimp that is deep fried and tossed in a buffalo sauce, served with bleu cheese dressing and celery sticks",
+						"name": "Buffalo Fried Shrimp",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472340"
+					},
+					{
+						"description":
+							"Two large crab cakes, served with tartar or cocktail sauce",
+						"name": "Fried Crab Cakes",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472341"
+					},
+					{
+						"description":
+							"Sauteed with fresh garlic, chopped tomato, white wine, basil and red pepper flakes",
+						"name": "Mussels Marinara",
+						"prices": [
+							{
+								"label": "",
+								"price": 625
+							}
+						],
+						"key": "1521830472342"
+					},
+					{
+						"description":
+							"Grilled chicken tenders tossed in a choice of classic buffalo or barbecue sauce",
+						"name": "Naked chicken tenders",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"key": "1521830472343"
+					},
+					{
+						"description": "Served with ranch dressing",
+						"name": "crispy Onion Rings",
+						"prices": [
+							{
+								"label": "",
+								"price": 395
+							}
+						],
+						"key": "1521830472344"
+					},
+					{
+						"description": "Spanish style, served on toasted French bread",
+						"name": "Garlic Shrimp",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472345"
+					},
+					{
+						"description": "Served with raspbetty viniagrette on the side",
+						"name": "Cheddar Poppers",
+						"prices": [
+							{
+								"label": "",
+								"price": 625
+							}
+						],
+						"key": "1521830472346"
+					},
+					{
+						"description": "Served with cocktail sauce",
+						"name": "Jumbo Gulf Shrimp Cocktail",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472347"
+					}
+				],
+				"sectionName": "Appetizers",
+				"subSections": [
+					{
+						"columns": 2,
+						"items": [
+							{
+								"description": "",
+								"name": "French Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 350
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Sweet Potato Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 425
+									}
+								]
+							},
+							{
+								"description":
+									"Your choice of American, cheddar or mozzarella cheese topped with brown gravy",
+								"name": "Disco Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 450
+									}
+								]
+							},
+							{
+								"description": "Mozarella cheese topped with tomato sauce",
+								"name": "Pizza Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 450
+									}
+								]
+							},
+							{
+								"description":
+									"Homemade chili with melted cheese, diced onions, jalapenos & a side of sour cream",
+								"name": "Chili Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 525
+									}
+								]
+							},
+							{
+								"description": "Crispy bacon, melted cheese & sour cream",
+								"name": "Loaded Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 525
+									}
+								]
+							}
+						],
+						"subSectionName": "Fries"
+					},
+					{
+						"columns": 2,
+						"items": [
+							{
+								"description": "Made fresh daily from scratch",
+								"name": "Soup of the day",
+								"prices": [
+									{
+										"label": "Cup",
+										"price": 225
+									},
+									{
+										"label": "Bowl",
+										"price": 275
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Crock of french onion",
+								"prices": [
+									{
+										"label": "",
+										"price": 395
+									}
+								]
+							},
+							{
+								"description":
+									"Made with ground chuck beef, served with diced onions, melted cheese & side of sour cream",
+								"name": "Texas Chilli",
+								"prices": [
+									{
+										"label": "",
+										"price": 595
+									}
+								]
+							}
+						],
+						"subSectionName": "Chilli & Soup"
+					},
+					{
+						"columns": 2,
+						"items": [
+							{
+								"description": "",
+								"name": "Soup & Tossed Salad",
+								"prices": [
+									{
+										"label": "",
+										"price": 450
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Soup & Greek Salad",
+								"prices": [
+									{
+										"label": "",
+										"price": 625
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "1/2 Deli Sandwich & French Onion Soup or Greek Salad",
+								"prices": [
+									{
+										"label": "",
+										"price": 750
+									}
+								]
+							}
+						],
+						"subSectionName": "Soup & Appetizer Size Salad Combo"
+					},
+					{
+						"columns": 2,
+						"items": [
+							{
+								"description": "",
+								"name": "Baked Potato",
+								"prices": [
+									{
+										"label": "",
+										"price": 295
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Mashed Potato",
+								"prices": [
+									{
+										"label": "",
+										"price": 275
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Rice Pilaf",
+								"prices": [
+									{
+										"label": "",
+										"price": 275
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Brown Rice",
+								"prices": [
+									{
+										"label": "",
+										"price": 295
+									}
+								]
+							},
+							{
+								"description": "Made fresh daily",
+								"name": "Creamy Cole Slaw",
+								"prices": [
+									{
+										"label": "",
+										"price": 225
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Sauteed spinach",
+								"prices": [
+									{
+										"label": "",
+										"price": 395
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Black Beans",
+								"prices": [
+									{
+										"label": "",
+										"price": 295
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Vegetable of the Day",
+								"prices": [
+									{
+										"label": "",
+										"price": 225
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Home Fries",
+								"prices": [
+									{
+										"label": "",
+										"price": 275
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Fruit Cup",
+								"prices": [
+									{
+										"label": "",
+										"price": 395
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Cottage Cheese",
+								"prices": [
+									{
+										"label": "",
+										"price": 225
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Feta Cheese",
+								"prices": [
+									{
+										"label": "",
+										"price": 350
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Potato Salad",
+								"prices": [
+									{
+										"label": "",
+										"price": 225
+									}
+								]
+							},
+							{
+								"description": "",
+								"name": "Stuffed Grape Leaves (4)",
+								"prices": [
+									{
+										"label": "",
+										"price": 295
+									}
+								]
+							}
+						],
+						"subSectionName": "Sides"
+					}
+				],
+				"key": "1521830472331"
+			},
+			{
+				"columns": 2,
+				"items": [
+					{
+						"description":
+							"A delicious blend of field greens, walnuts, and crumbled bleu cheese, served with choice of dressing",
+						"name": "Kris' Special Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 745
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"Chopped iceberg lettuce, tomato, red onion, shredded carrots, cucumbers, Caesar dressing with croutons & sliced egg with choice of dressing",
+						"name": "Kat's Special Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 625
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description":
+							"Chopped romaine lettuce hearts tossed in creamy Caesar dressing with croutons and parmesean cheese",
+						"name": "Caesar Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description":
+							"Your choice of romaine or iceberg lettuce with feta cheese, tomato, cucumbers, red onion and block olives in our own Greek dressing (anchiovies upon requeest)",
+						"name": "Greek Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description":
+							"Chopped lettuce, diced tomatoes, bacon, crumbled bleu cheese, onions and sliced steak, with choice of dressing",
+						"name": "Steak House Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 1195
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description":
+							"Chopped lettuce, diced tomatoes, bacon, shredded jack & cheddar cheese with lightly fried chicken tenders served with honey dijon dressing on the side",
+						"name": "Honey Fried Chicken Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 745
+							}
+						],
+						"key": "1521830472335"
+					},
+					{
+						"description":
+							"Mixed field greens, sliced turkey, diced tomatoes, red onions, avocado & bacon with a choice of dressing",
+						"name": "California Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472336"
+					},
+					{
+						"description":
+							"Grilled chicken breast, granny smith apples, walnuts, celery & crumbled bleu cheese, with choice of dressing",
+						"name": "Waldorf Chicken Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472337"
+					},
+					{
+						"description":
+							"iceberg lettuce, onions, tomatoes, green peppers, grilled chicken breast & Mozarella cheese, served with choice of dressing",
+						"name": "Garden Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472338"
+					},
+					{
+						"description":
+							"Romaine lettuce, cucumbers, hard boiled egg, three hot shrimp, Cajun chicken breast and tomatoes served with your choice of dressing",
+						"name": "Stafford Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 1145
+							}
+						],
+						"key": "1521830472339"
+					},
+					{
+						"description":
+							"Grilled chicken, bacon bits, feta cheese & mushrooms served with choice of dressing",
+						"name": "Spinach Salad Bowl",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472340"
+					},
+					{
+						"description":
+							"Romaine lettuce, onions, tomatoes, hard boiled egg & chick peas with your choice of dressing",
+						"name": "Special Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472341"
+					},
+					{
+						"description":
+							"Mixed greens with red onions, roasted red peppers, black olives & grilled scallops, served with your choice of dressing",
+						"name": "Maria's salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 1225
+							}
+						],
+						"key": "1521830472342"
+					},
+					{
+						"description":
+							"Turkey, Ham, roast beef & imported Swiss cheese atop a tossed green salad with choice of dressing",
+						"name": "Chef Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 9.75
+							}
+						],
+						"key": "1521830472343"
+					},
+					{
+						"description":
+							"Chopped lettuce, crumbled bleu cheese, diced tomatoes, and fried buffalo chicken tenders with ranch dressing on the side",
+						"name": "Buffalo Chicken Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472344"
+					},
+					{
+						"description":
+							"Chopped lettuce, grilled chicken, bacon, crumbled bleu cheese, avocado, diced tomatoes & hard boiled egg, served with your choice of dressing",
+						"name": "Cobb Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 1095
+							}
+						],
+						"key": "1521830472345"
+					},
+					{
+						"description":
+							"Fresh Spinach, walnuts, and portabella mushrooms served with choice of dressing",
+						"name": "Portabella Mushrooms",
+						"prices": [
+							{
+								"label": "",
+								"price": 1095
+							}
+						],
+						"key": "1521830472346"
+					},
+					{
+						"description":
+							"Served with lettuce, tomato, onions, on a toasted bagel with a side of cream cheese",
+						"name": "Lox Platter",
+						"prices": [
+							{
+								"label": "",
+								"price": 1095
+							}
+						],
+						"key": "1521830472347"
+					},
+					{
+						"description":
+							"Served on a bed of lettuce with tomato, onion, cole slaw and potato salad",
+						"name": "Tuna, Chicken or Egg Salad Platter",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472348"
+					},
+					{
+						"description":
+							"Served on a bed of lettuce, tomato, onion, cole slaw and a potato salad",
+						"name": "Chopped Shrimp Salad Platter",
+						"prices": [
+							{
+								"label": "",
+								"price": 995
+							}
+						],
+						"key": "1521830472349"
+					},
+					{
+						"description": "Choice of tuna, chicken or egg salad",
+						"name": "Stuffed tomato",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472350"
+					}
+				],
+				"sectionName": "Large Salads",
+				"key": "1521830472332"
+			},
+			{
+				"items": [
+					{
+						"description": "with crispy lettuce, tomato & cottage cheese",
+						"name": "Grilled Chicken Breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"White Albacore tuna on cripy lettuce with tomato and hard boiled egg",
+						"name": "Low Cal",
+						"prices": [
+							{
+								"label": "",
+								"price": 725
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description": "with lettuce, tomato and a scoop of cottage cheese",
+						"name": "Beef, Turkey, or Veggie Burger",
+						"prices": [
+							{
+								"label": "",
+								"price": 725
+							}
+						],
+						"key": "1521830472332"
+					}
+				],
+				"sectionName": "Trim Line",
+				"key": "1521830472333"
+			},
+			{
+				"items": [
+					{
+						"description":
+							"Grilled lemon pepper chicken with brown rice and steamed broccoli",
+						"name": "Energy",
+						"prices": [
+							{
+								"label": "",
+								"price": 1145
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"Wheat pasta sauteed with spinach, olive oil, and garlic",
+						"name": "Vegetarian",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description": "with spinach and brown rice",
+						"name": "Broiled 12 oz New york Steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 1595
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description":
+							"With sauteed broccoli in garlic and olive oil, topped with Roasted Peppers",
+						"name": "Grilled Chicken Breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 1145
+							}
+						],
+						"key": "1521830472333"
+					}
+				],
+				"sectionName": "Low Carb Solutions",
+				"key": "1521830472334"
+			},
+			{
+				"items": [
+					{
+						"description":
+							"Crispy chicken breast coated in bread crumbs, tomato sauce and melted provolone cheese on a toasted French roll",
+						"name": "Chicken Parmigiana Hero",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description": "With lettuce and tomato on a toasted roll",
+						"name": "Grilled Chicken breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 825
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description":
+							"Grilled chicken breast topped with melted Swiss, lettuce and tomato on a toasted roll",
+						"name": "Honey Dijon Chicken Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description":
+							"Grilled chicken, BLT & mayo on three slices of toasted bread",
+						"name": "Grilled Chicken club sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description":
+							"Turkey, bacon, lettuce and tomato on three slices of toasted bread",
+						"name": "Turkey Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description":
+							"Roast Beef, bacon, lettuce and tomato, on three slices of toasted bread",
+						"name": "Roast Beef Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472335"
+					},
+					{
+						"description": "Tuna or Chicken Salad Club",
+						"name": "Ham and Turkey Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472336"
+					},
+					{
+						"description":
+							"With bacon, lettuce and tomato on three slices of toasted bread",
+						"name": "Tuna or Chicken Salad Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472337"
+					},
+					{
+						"description":
+							"With bacon, lettuce and tomato on three slices of toasted bread",
+						"name": "Egg Salad Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472338"
+					},
+					{
+						"description":
+							"1/2 lb hamburger with bacon, lettuce, tomato & choice of cheese on three slices of toasted bread",
+						"name": "Hamburger Club",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472339"
+					},
+					{
+						"description":
+							"Roast beef and Swiss cheese on a kaiser roll, served with au jus",
+						"name": "French Dip",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472340"
+					},
+					{
+						"description":
+							"Ham, turkey and melted Swisss on our homemade French toast",
+						"name": "Monte Cristo",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472341"
+					},
+					{
+						"description":
+							"Choice of hot corned beef or pastrami with sauerkraut and Russian dressing, topped with melted Swiss cheese on rye",
+						"name": "Reuben",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472342"
+					},
+					{
+						"description":
+							"A grilled chicken breast with roasted red peppers and melted American cheese on a hard roll",
+						"name": "Mermaid Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472343"
+					},
+					{
+						"description":
+							"Grilled chicken topped with eggplant and melted Swiss cheese on a torpedo roll",
+						"name": "Chicken and Eggplant",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472344"
+					},
+					{
+						"description":
+							"Grilled slices of chicken, onions, red peppers, zucchini, with melted American cheese, served on a torpedo roll",
+						"name": "Our Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 850
+							}
+						],
+						"key": "1521830472345"
+					},
+					{
+						"description":
+							"Grilled chicken, bacon, roasted peppers, melted Swiss, lettuce, tomato and onion on a torpedo roll with our special dressing",
+						"name": "Dee's special sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472346"
+					},
+					{
+						"description": "On a hard roll with brown gravy",
+						"name": "Meatloaf Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472347"
+					},
+					{
+						"description":
+							"Served on a garlic hero rol with melted mozzarella and tomato sauce",
+						"name": "Italian Meatball",
+						"prices": [
+							{
+								"label": "",
+								"price": 725
+							}
+						],
+						"key": "1521830472348"
+					},
+					{
+						"description": "Served on a garlic hero roll with fried onions",
+						"name": "Rib-eye steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 1025
+							}
+						],
+						"key": "1521830472349"
+					},
+					{
+						"description":
+							"Tuna salad topped with tomato and melted American cheese on a rye bread",
+						"name": "Tuna Melt",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472350"
+					},
+					{
+						"description":
+							"Choice of hot corned beef, pastrami, or roast beef on rye bread or Kaiser roll",
+						"name": "Carnegie Deli Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472351"
+					},
+					{
+						"description": "",
+						"name": "Grilled Cheese",
+						"prices": [
+							{
+								"label": "",
+								"price": 575
+							},
+							{
+								"label": "with Bacon or Ham",
+								"price": 725
+							},
+							{
+								"label": "with Tomato",
+								"price": 625
+							}
+						],
+						"key": "1521830472352"
+					},
+					{
+						"description":
+							"Fried crab cakes served with tartar sauce on a hard roll",
+						"name": "Crab Cake Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472353"
+					},
+					{
+						"description":
+							"Bacon, lettuce and tomato on choice of toasted bread",
+						"name": "B.L.T.",
+						"prices": [
+							{
+								"label": "",
+								"price": 595
+							}
+						],
+						"key": "1521830472354"
+					},
+					{
+						"description": "Served with lettuce and tomato on a Kaiser roll",
+						"name": "Fried Flounder Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 875
+							}
+						],
+						"key": "1521830472355"
+					},
+					{
+						"description":
+							"Paper thin sirloin steak with melted cheese, peppers and onions on a toasted French roll",
+						"name": "Philly Cheese Steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 845
+							}
+						],
+						"key": "1521830472356"
+					},
+					{
+						"description":
+							"with melted cheese, peppers and onions on a toasted French roll",
+						"name": "Chicken Cheese Steak",
+						"prices": [
+							{
+								"label": "",
+								"price": 845
+							}
+						],
+						"key": "1521830472357"
+					},
+					{
+						"description":
+							"Grilled eggplant with melted mozzarella cheese on a torpedo roll",
+						"name": "Eggplant Parmigiana",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472358"
+					}
+				],
+				"sectionName": "Premium Sandwiches",
+				"key": "1521830472335"
+			},
+			{
+				"items": [
+					{
+						"description": "",
+						"name": "Roast Top Sirloin of Beef",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description": "",
+						"name": "Roast Turkey Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description": "",
+						"name": "Virginia Ham",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description": "",
+						"name": "Tuna fish, chicken or egg salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description": "",
+						"name": "Chopped Shrimp Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description": "Choice of American, Swiss or mozzarella",
+						"name": "Cheese Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 575
+							}
+						],
+						"key": "1521830472335"
+					}
+				],
+				"sectionName": "Deli Sandwich Board",
+				"key": "1521830472336"
+			},
+			{
+				"items": [
+					{
+						"description": "",
+						"name": "Hamburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 495
+							},
+							{
+								"label": "DLX",
+								"price": 695
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description": "",
+						"name": "Cheeseburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 545
+							},
+							{
+								"label": "DLX",
+								"price": 745
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description": "",
+						"name": "Bacon Cheeseburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 625
+							},
+							{
+								"label": "DLX",
+								"price": 825
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description": "",
+						"name": "Veggie Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description": "",
+						"name": "Turkey Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description": "",
+						"name": "Patty Melt",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 595
+							},
+							{
+								"label": "DLX",
+								"price": 795
+							}
+						],
+						"key": "1521830472335"
+					},
+					{
+						"description": "With Canadian bacon & cheese",
+						"name": "Canadian Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 625
+							},
+							{
+								"label": "DLX",
+								"price": 825
+							}
+						],
+						"key": "1521830472336"
+					},
+					{
+						"description": "Two 8oz pztties with provolone and cheddar cheeses",
+						"name": "Greek Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 595
+							},
+							{
+								"label": "DLX",
+								"price": 795
+							}
+						],
+						"key": "1521830472337"
+					},
+					{
+						"description":
+							"Grilled Portobello on a toasted bun with mozzarella cheese",
+						"name": "Meatless Hamburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"key": "1521830472338"
+					},
+					{
+						"description":
+							"An American original served with bacon, topped with mozzarella cheese and roasted peppers",
+						"name": "All American Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 645
+							},
+							{
+								"label": "DLX",
+								"price": 845
+							}
+						],
+						"key": "1521830472339"
+					},
+					{
+						"description":
+							"Topped with Swiss cheese, mushrooms and caramelized onions",
+						"name": "Brooklyn Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 645
+							},
+							{
+								"label": "DLX",
+								"price": 845
+							}
+						],
+						"key": "1521830472340"
+					},
+					{
+						"description": "With Mozarella cheese and tomato sauce",
+						"name": "Pizza Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"key": "1521830472341"
+					},
+					{
+						"description": "Seasoned Cajun burger with bleu cheese",
+						"name": "Black N' Bleu Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"key": "1521830472342"
+					},
+					{
+						"description":
+							"Bite sized burgers on mini buns with melted cheese, onions, tomatoes and pickles",
+						"name": "Mini Sliders",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"key": "1521830472343"
+					},
+					{
+						"description":
+							"Topped with jalapeno peppers, onions, tomatoes and Moterey jack cheese, served with bleu cheese dressing",
+						"name": "Stafford Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"key": "1521830472344"
+					}
+				],
+				"sectionName": "Charcoal Grilled Hamburgers",
+				"key": "1521830472337"
+			},
+			{
+				"items": [
+					{
+						"description":
+							"Grilled chicken, turkey bacon, beans and melted cheddar cheese",
+						"name": "Santa Fe Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description": "With romaine lettuce and Caesar dressing",
+						"name": "Chicken Caesar Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description":
+							"Grilled chicken with fresh spinach and mozzarella, served with balsamic dressing",
+						"name": "Sergio Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description": "With shredded lettuce and tomatoes",
+						"name": "Tuna, Chicken, or Egg Salad Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description": "",
+						"name": "Grilled Chicken and Vegetable Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description":
+							"Thinly slied and topped with shredded lettuce, tomatoes and onions",
+						"name": "Grilled Chicken and Eggplant Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472335"
+					},
+					{
+						"description": "With shredded lettuce and tomatoes",
+						"name": "Turkey Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472336"
+					},
+					{
+						"description":
+							"With shredded lettuce, tomatoes, onions, and tzatziki sauce",
+						"name": "Gyro Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472337"
+					},
+					{
+						"description":
+							"Thinly Sliced london broil topped with shredded lettuce, tomatoes, and onions",
+						"name": "Santos Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472338"
+					},
+					{
+						"description": "Grilled and Seasoned",
+						"name": "Vegetable Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472339"
+					},
+					{
+						"description":
+							"Grilled eggplant topped with melted mozzarella cheese and marinara sauce",
+						"name": "Eggplant Parmigiana Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472340"
+					},
+					{
+						"description": "with peppers and onions",
+						"name": "Cheese Steak Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472341"
+					},
+					{
+						"description": "Grilled chicken & egg whites on a wheat wrap",
+						"name": "Protein Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472342"
+					},
+					{
+						"description":
+							"Grilled burger with tomato sauce, mozzarella cheese",
+						"name": "Pizza Burger Wrap",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472343"
+					},
+					{
+						"description": "With shredded lettuce and tomatoes",
+						"name": "Crispy chicken fingers, lettuce, tomato & Buffalo sauce",
+						"prices": [
+							{
+								"label": "",
+								"price": 895
+							}
+						],
+						"key": "1521830472344"
+					}
+				],
+				"sectionName": "Wraps",
+				"key": "1521830472338"
+			},
+			{
+				"items": [
+					{
+						"description":
+							"Grilled chicken, ham & melted mozzarella on focaccia bread",
+						"name": "Tommy's Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472330"
+					},
+					{
+						"description":
+							"Grilled chicken with sauteed spinach, in a basil olive oil and gralic dressing topped with mozzarella cheese",
+						"name": "Kristen's Favorite",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472331"
+					},
+					{
+						"description":
+							"With lettuce and melted Monterey jack cheese in grilled focaccia bread, served with dijon mustard on the side",
+						"name": "Turkey and Bacon",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472332"
+					},
+					{
+						"description":
+							"With red roasted peppers, provolone cheese and lettuce in basil",
+						"name": "Roasted Eggplant",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472333"
+					},
+					{
+						"description":
+							"With roasted red peppers, provolone cheese and lettuce in basil olive oil, garlic, and seasonings",
+						"name": "Grilled chicken breast",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472334"
+					},
+					{
+						"description": "Topped with your choice of melted cheese",
+						"name": "Grilled Portabello Mushrooms",
+						"prices": [
+							{
+								"label": "",
+								"price": 925
+							}
+						],
+						"key": "1521830472335"
+					}
+				],
+				"sectionName": "Our Own Baked Focaccia Bread",
+				"key": "1521830472339"
+			}
+		]
+	}
+}

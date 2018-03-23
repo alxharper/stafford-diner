@@ -47,10 +47,6 @@ class MenuEditor extends Component {
 		this.setState({ placeholder });
 	}
 
-	handleSubmit(event) {
-		const menus = { ...this.state.menus };
-	}
-
 	render() {
 		return (
 			<div className="menuEditor">

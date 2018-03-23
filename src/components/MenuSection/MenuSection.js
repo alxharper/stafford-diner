@@ -4,10 +4,20 @@ import MenuItem from "../MenuItem/MenuItem";
 import "./MenuSection.css";
 
 class MenuSection extends Component {
+	renderItems = items => {
+		return items.map((item, itemIndex) => (
+			<MenuItem
+				key={item.key}
+				updateItem={this.props.updateItem}
+				sectionIndex={this.props.sectionIndex}
+				itemIndex={itemIndex}
+				item={item}
+			/>
+		));
+	};
+
 	render() {
-		const menuItems = this.props.section.items.map(item => {
-			return <MenuItem item={item} />;
-		});
+		const menuItems = this.renderItems(this.props.section.items);
 
 		return (
 			<div className="menuSection">

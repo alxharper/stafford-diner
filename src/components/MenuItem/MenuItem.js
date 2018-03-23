@@ -1,21 +1,38 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 import { formatPrice } from "../../util.js";
 
 import "./MenuItem.css";
 
 class MenuItem extends Component {
-	render() {
-		const prices = this.props.item.prices.map(option => {
+	renderPrices = prices => {
+		return prices.map((option, index) => {
 			return (
-				<React.Fragment>
+				<span className="itemOption" key={index}>
 					<span className="itemOptionLabel">{option.label}</span>
 					<span className="itemOptionPrice">{formatPrice(option.price)}</span>
-				</React.Fragment>
+				</span>
 			);
 		});
+	};
+
+	handleUpdateClick = () => {
+		let updatedItem = this.props.item;
+
+		updatedItem.updated = true;
+
+		this.props.updateItem(
+			this.props.sectionIndex,
+			this.props.itemIndex,
+			updatedItem
+		);
+	};
+
+	render() {
+		const prices = this.renderPrices(this.props.item.prices);
 
 		return (
 			<div className="menuItem">
+				<button onClick={this.handleUpdateClick}>edit</button>
 				<div className="itemName">
 					{this.props.item.name}
 					<span className="price">{prices}</span>
