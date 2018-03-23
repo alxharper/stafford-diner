@@ -270,7 +270,7 @@
 								]
 							},
 							{
-								"description": "Mozzerella cheese topped with tomato sauce",
+								"description": "Mozarella cheese topped with tomato sauce",
 								"name": "Pizza Fries",
 								"prices": [
 									{
@@ -621,7 +621,7 @@
 					},
 					{
 						"description":
-							"iceberg lettuce, onions, tomatoes, green peppers, grilled chicken breast & Mozzerella cheese, served with choice of dressing",
+							"iceberg lettuce, onions, tomatoes, green peppers, grilled chicken breast & Mozarella cheese, served with choice of dressing",
 						"name": "Garden Salad",
 						"prices": [
 							{
@@ -1171,6 +1171,291 @@
 						],
 						"description":
 							"Grilled eggplant with melted mozzarella cheese on a torpedo roll"
+					}
+				]
+			},
+			{
+				"sectionName": "Deli Sandwich Board",
+				"items": [
+					{
+						"name": "Roast Top Sirloin of Beef",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Roast Turkey Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Virginia Ham",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Tuna fish, chicken or egg salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 675
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Chopped Shrimp Salad",
+						"prices": [
+							{
+								"label": "",
+								"price": 795
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Cheese Sandwich",
+						"prices": [
+							{
+								"label": "",
+								"price": 575
+							}
+						],
+						"description": "Choice of American, Swiss or mozzarella"
+					}
+				]
+			},
+			{
+				"sectionName": "Charcoal Grilled Hamburgers",
+				"items": [
+					{
+						"name": "Hamburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 495
+							},
+							{
+								"label": "DLX",
+								"price": 695
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Cheeseburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 545
+							},
+							{
+								"label": "DLX",
+								"price": 745
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Bacon Cheeseburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 625
+							},
+							{
+								"label": "DLX",
+								"price": 825
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Veggie Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Turkey Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Patty Melt",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 595
+							},
+							{
+								"label": "DLX",
+								"price": 795
+							}
+						],
+						"description": ""
+					},
+					{
+						"name": "Canadian Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 625
+							},
+							{
+								"label": "DLX",
+								"price": 825
+							}
+						],
+						"description": "With Canadian bacon & cheese"
+					},
+					{
+						"name": "Greek Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 595
+							},
+							{
+								"label": "DLX",
+								"price": 795
+							}
+						],
+						"description": "Two 8oz pztties with provolone and cheddar cheeses"
+					},
+					{
+						"name": "Meatless Hamburger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 725
+							}
+						],
+						"description":
+							"Grilled Portobello on a toasted bun with mozzarella cheese"
+					},
+					{
+						"name": "All American Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 645
+							},
+							{
+								"label": "DLX",
+								"price": 845
+							}
+						],
+						"description":
+							"An American original served with bacon, topped with mozzarella cheese and roasted peppers"
+					},
+					{
+						"name": "Brooklyn Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 645
+							},
+							{
+								"label": "DLX",
+								"price": 845
+							}
+						],
+						"description":
+							"Topped with Swiss cheese, mushrooms and caramelized onions"
+					},
+					{
+						"name": "Pizza Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 525
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"description": "With Mozarella cheese and tomato sauce"
+					},
+					{
+						"name": "Black N' Bleu Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"description": "Seasoned Cajun burger with bleu cheese"
+					},
+					{
+						"name": "Mini Sliders",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"description":
+							"Bite sized burgers on mini buns with melted cheese, onions, tomatoes and pickles"
+					},
+					{
+						"name": "Stafford Burger",
+						"prices": [
+							{
+								"label": "REG",
+								"price": 575
+							},
+							{
+								"label": "DLX",
+								"price": 775
+							}
+						],
+						"description":
+							"Topped with jalapeno peppers, onions, tomatoes and Moterey jack cheese, served with bleu cheese dressing"
 					}
 				]
 			}
