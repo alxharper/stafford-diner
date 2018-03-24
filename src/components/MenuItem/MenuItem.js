@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import { formatPrice } from "../../util.js";
 
 import "./MenuItem.css";
@@ -27,18 +27,36 @@ class MenuItem extends Component {
 		);
 	};
 
+	adminButtons = admin => {
+		if (admin) {
+			return (
+				<div className="adminButtons">
+					<button className="editButton" onClick={this.handleUpdateClick}>
+						edit
+					</button>
+					<button className="deleteButton" onClick={this.handleDeleteClick}>
+						delete
+					</button>
+				</div>
+			);
+		}
+	};
+
 	render() {
 		const prices = this.renderPrices(this.props.item.prices);
+		const adminButtons = this.adminButtons(true);
 
 		return (
-			<div className="menuItem">
-				<button onClick={this.handleUpdateClick}>edit</button>
-				<div className="itemName">
-					{this.props.item.name}
-					<span className="price">{prices}</span>
+			<React.Fragment>
+				{adminButtons}
+				<div className="menuItem">
+					<div className="itemName">
+						{this.props.item.name}
+						<span className="price">{prices}</span>
+					</div>
+					<div className="description">{this.props.item.description}</div>
 				</div>
-				<div className="description">{this.props.item.description}</div>
-			</div>
+			</React.Fragment>
 		);
 	}
 }
