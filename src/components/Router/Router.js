@@ -1,12 +1,15 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import MenuEditor from "../MenuEditor/MenuEditor";
 import App from "../../App";
 
 const Router = () => (
 	<BrowserRouter>
 		<Switch>
-			<Route exact path="/admin" component={MenuEditor} />
+			<Route
+				exact
+				path="/admin"
+				render={props => <App {...props} showLogin={true} />}
+			/>
 			<Route component={App} />
 		</Switch>
 	</BrowserRouter>
